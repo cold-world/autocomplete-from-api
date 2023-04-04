@@ -1,5 +1,4 @@
 Autocomplete from api
-
 =======================================
 
 HTML, CSS, JavaScript
